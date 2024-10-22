@@ -30,4 +30,6 @@ Estou estudando... Então não há muita coisa interessante por aqui ainda. (Nã
 ![NOTION](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![REPLIT](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+
+![](https://komarev.com/ghpvc/?username=guiochagas)
 </div>
