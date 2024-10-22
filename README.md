@@ -1,5 +1,9 @@
-# Olá! Meu nome é Guilherme 👋🏽
-Atualmente trabalho com redes de computadores e estudo programação nas horas vagas.
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+%F0%9F%91%8B%F0%9F%8F%BD;Mas+pode+me+chamar+de+Chagas+%F0%9F%91%8A%F0%9F%8F%BD;Tenho+25+anos+%F0%9F%8E%88;Moro+em+S%C3%A3o+Paulo+%F0%9F%8F%99%EF%B8%8F)](https://git.io/typing-svg)
+
+Atualmente trabalho com redes de computadores 🌐 e estudo programação 👾 quando não estou no trabalho.
+
 
 ### SOCIAL 🔗
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-camurca-chagas-profissional/)
@@ -26,3 +30,4 @@ Estou estudando... Então não há muita coisa interessante por aqui ainda. (Nã
 ![NOTION](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![REPLIT](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+</div>
