@@ -1,4 +1,7 @@
 <div align="center">
+
+![BACKGROUND](guiochagas/images/background-dark.jifr)
+
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+%F0%9F%91%8B%F0%9F%8F%BD;Mas+pode+me+chamar+de+Chagas+%F0%9F%91%8A%F0%9F%8F%BD;Tenho+25+anos+%F0%9F%8E%88;Moro+em+S%C3%A3o+Paulo+%F0%9F%8F%99%EF%B8%8F)](https://git.io/typing-svg)
 
