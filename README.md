@@ -1,11 +1,13 @@
-# Olá! Eu sou o Guilherme 👋🏽
-FUTURO DESENVOLVEDOR FULL STACK 👾
+# Olá! Meu nome é Guilherme 👋🏽
+Atualmente trabalho com redes de computadores e estudo programação nas horas vagas.
 
-### MINHAS REDES 🔗
+### SOCIAL 🔗
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-camurca-chagas-profissional/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermeochagas/)
+[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5512988629035)
 
-### TECNOLOGIAS QUE ESTOU APRENDENDO 🔥
+
+### LEARNING 🔥
 
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -18,7 +20,7 @@ FUTURO DESENVOLVEDOR FULL STACK 👾
 
 Estou estudando... Então não há muita coisa interessante por aqui ainda. (Não por muito tempo 📈)
 
-### OFFICE 📚
+### OFFICE 💻
 
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![NOTION](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
