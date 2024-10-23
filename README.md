@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=F4F7F4&background=000000&center=true&vCenter=true&width=435&lines=OL%C3%81%2C+MEU+NOME+%C3%89+GUILHERME+%F0%9F%91%8B;AMO+TECNOLOGIA;TENHO+25+ANOS;MORO+EM+S%C3%83O+PAULO;ESTOU+ESTUDANDO+PYTHON;SQL+%7C+API+%7C+HTML+%7C+CSS;%23LETSCODE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=F4F7F4&background=000000&center=true&vCenter=true&width=435&lines=OL%C3%81%2C+MEU+NOME+%C3%89+GUILHERME+%F0%9F%91%8B;TENHO+25+ANOS;MORO+EM+S%C3%83O+PAULO;ESTOU+ESTUDANDO+PYTHON;SQL+%7C+API+%7C+HTML+%7C+CSS;%23LETSCODE)](https://git.io/typing-svg)
 
 Atualmente trabalho com redes de computadores 🌐 e estudo programação 👾 quando não estou no trabalho.
 
