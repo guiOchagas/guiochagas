@@ -22,7 +22,7 @@ Atualmente trabalho com redes de computadores 🌐 e estudo programação 👾 q
 ### STATUS | GIT 🚀
 ![Guilherme Stats](https://github-readme-stats.vercel.app/api?username=guiochagas&show_icons=true&theme=tokyonight)
 
-Estou estudando... Então não há muita coisa interessante por aqui ainda. (Não por muito tempo 📈)
+Estou estudando...
 
 ### OFFICE 💻
 
