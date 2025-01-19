@@ -20,8 +20,8 @@ Atualmente trabalho como Analista de Redes 🌐 e pretendo migrar para a área d
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### STATUS | GIT 🚀
-![Guilherme Stats](https://github-readme-stats.vercel.app/api?username=guiochagas&show_icons=true&theme=tokyonight&width=500px&heigh=500px)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiochagas&layout=compact&width=500px&heigh=500px&theme=tokyonight)
+![Guilherme Stats](https://github-readme-stats.vercel.app/api?username=guiochagas&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiochagas&layout=compact&theme=tokyonight&card_width=500)
 
 ### OFFICE 💻
 
