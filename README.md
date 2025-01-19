@@ -22,7 +22,7 @@ Atualmente trabalho como Analista de Redes 🌐 e pretendo migrar para a área d
 ### STATUS | GIT 🚀
 ![Guilherme Stats](https://github-readme-stats.vercel.app/api?username=guiochagas&show_icons=true&theme=tokyonight&card_width=500px)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiochagas&layout=compact&theme=tokyonight&card_width=500px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiochagas&layout=compact&theme=tokyonight&text_bold=true&card_width=500px)
 
 ### OFFICE 💻
 
