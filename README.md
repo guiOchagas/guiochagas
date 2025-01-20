@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=F4F7F4&background=212830&center=true&vCenter=true&width=435&lines=OL%C3%81+MEU+NOME+%C3%89+GUILHERME+%F0%9F%91%8B;TENHO+25+ANOS;MORO+EM+S%C3%83O+PAULO;AT%C3%89+AGORA%2C+ESTOU+AQUI%3A+;PYTHON+%7C+SQL+%7C+HMTL+%7C+CSS;E+SIGO+ESTUDANDO;NOVAS+TECNOLOGIAS;%F0%9F%9A%80+TODOS+OS+DIAS+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-Atualmente trabalho como Analista de Redes 🌐 e pretendo migrar para a área de desenvolvimento 👾
+Futuro desenvolvedor Fullstack 👨‍💻
 
 
 ### SOCIAL 🔗
